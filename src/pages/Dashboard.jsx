@@ -27,9 +27,9 @@ const Dashboard = () => {
             <div className="w-full border-t-8 border-indigo-800 rounded-lg p-4 shadow-md flex flex-col items-center justify-center">
               <MdOutlineSupervisorAccount className="text-[120px]" />
               <p className="text-center font-semibold text-[18px] text-gray-700 mt-5">
-                Total Admins
+                Total Admins 
               </p>
-              <p className="text-center mt-5 text-[30px] font-semibold">7</p>
+              <p className="text-center mt-5 text-[30px] font-semibold">7</p> 
             </div>
             <div className="w-full border-t-8 border-indigo-800 rounded-lg p-4 shadow-md flex flex-col items-center justify-center">
               <IoNewspaperOutline className="text-[120px]" />
